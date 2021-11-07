@@ -2,7 +2,10 @@
 
 I'm Damian from Poland.
 
-Skills REACT/ JS / HTML / CSS
+Skills REACT/ JS / HTML / SCSS / SQL / NODE.js /TypeScript
+
+
+
 
 - 🌱 I’m currently learning React.js
 - 🔭 I’m currently working on Zarzadzane-Hodowlami
