@@ -20,4 +20,3 @@ OMS System Transition: Transformed a Zend-based OMS for multi-language support i
 Internal CRM Enhancement: Worked on a Zend-based CRM system for Reklamowe24, focusing on debugging, feature enhancements, and API integrations.
 🎯 I'm driven by the continuous pursuit of knowledge, always seeking new challenges in the realm of PHP development.
 
-🌐 Find more about my work at Personal Website or Portfolio.
